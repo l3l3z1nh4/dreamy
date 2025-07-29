@@ -1,6 +1,6 @@
 ---
 
-# Dreamy - Aplicação de Sonhos
+# Dreamy - Diário de Sonhos
 
 Este projeto é uma aplicação chamada "Dreamy", desenvolvida com **HTML** e **CSS**. O objetivo principal é criar uma interface visualmente atraente para os usuários registrarem e visualizarem seus sonhos.
 
