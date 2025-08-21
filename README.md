@@ -8,7 +8,7 @@ Este projeto é uma aplicação chamada "Dreamy", desenvolvida com **HTML** e **
 
 ## 🔍 Visão Geral
 
-- **Status**: Concluído
+- **Status**: Em construção
 - **Tecnologias**: HTML, CSS
 
 ---
